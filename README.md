@@ -9,5 +9,5 @@ PERIOD : 3일, 팀 프로젝트 100% 참여<br>
 TOOL : HTML5 / CSS3 / javascript / Git<br><br>
 
 
-[MEGABOX 바로가기](https://eunbi1228.github/MEGABOX/index.html)<br>
+[MEGABOX 바로가기](https://eunbi1228.github.io/MEGABOX/index.html)<br>
 [기존 MEGABOX 바로가기](https://www.megabox.co.kr/)
