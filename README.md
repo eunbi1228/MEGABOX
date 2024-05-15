@@ -10,4 +10,5 @@ TOOL : HTML5 / CSS3 / javascript / Git<br><br>
 
 
 [MEGABOX 바로가기](https://eunbi1228.github.io/MEGABOX/index.html)<br>
+[MEGABOX 바로가기]((http://127.0.0.1:5500/index.html)<br>
 [기존 MEGABOX 바로가기](https://www.megabox.co.kr/)
