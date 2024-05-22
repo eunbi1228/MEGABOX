@@ -4,7 +4,7 @@
 
 <hr>
 TYPE : MEGABOX (클론코딩) <br>
-PAGE : INDEX, JOIN, SUB*2 (4페이지)<br>
+PAGE : INDEX, SUB*3 (4페이지)<br>
 PERIOD : 3일, 팀 프로젝트 100% 참여<br>
 TOOL : HTML5 / CSS3 / javascript / Git<br><br>
 
